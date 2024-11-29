@@ -1,0 +1,12 @@
+{
+  "name": "microsoft-login-spoof-main",
+  "version": "1.0.0",
+  "description": "###### Good looking html login and a bit of JavaScript ensures user information collection.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
